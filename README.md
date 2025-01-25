@@ -6,10 +6,6 @@ Plugins Manager - 插件管理器 | 使用易语言开发
 
 发布帖： [【二次修改】一个简易的插件管理器（模块化 工具箱） - 精易论坛](https://bbs.125.la/forum.php?mod=viewthread&tid=14846983)
 
-## 前言
-
-由于我要给我自己的程序写一个插件系统，于是我找到了这个源码：
-
 ## 说明
 
 本项目基于 [分享一下学习成果，模块化工具箱 - 精易论坛](https://bbs.125.la/forum.php?mod=viewthread&tid=14698459) 修改。
